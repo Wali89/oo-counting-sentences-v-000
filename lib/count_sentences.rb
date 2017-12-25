@@ -21,4 +21,4 @@ class String
   end
 
 end
-"how now one. two. three?".count_sentences
+"how now one! two. three?".count_sentences
