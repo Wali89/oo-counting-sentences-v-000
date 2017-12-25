@@ -19,7 +19,7 @@ class String
     words = self.split(" ")
 
     words.each do |word|
-      if word.sentence?.question?exclamation?
+      if word.sentence?|| word.question?|| word.exclamation?
         counter += 1
       end
     end
