@@ -21,7 +21,4 @@ class String
   end
 
 end
-
-This, well, is a sentence. This is too!! And so is this, I think? Woo... = String.new
-
-This, well, is a sentence. This is too!! And so is this, I think? Woo....count_sentences
+"one. two. three?".count_sentences
